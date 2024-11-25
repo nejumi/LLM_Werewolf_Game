@@ -166,7 +166,8 @@ Pull requests and issue reports are welcome. For major changes, please open an i
 
 ## Acknowledgments
 
-- [Qwen](https://github.com/QwenLM/Qwen)
+- [OpenAI](https://github.com/openai/openai-python)
 - [vLLM](https://github.com/vllm-project/vllm)
+- [Qwen](https://github.com/QwenLM/Qwen)
 - [Google Gemini](https://deepmind.google/technologies/gemini/)
 - All other contributors to this project
