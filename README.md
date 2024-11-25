@@ -156,6 +156,7 @@ class WerewolfGame:
 
 This simulator is used as the foundation for the [Data Science Osaka Autumn 2024](https://www.kaggle.com/competitions/data-science-osaka-autumn-2024) competition. Participants can work on:
 
+- [Analysing game logs](https://www.kaggle.com/code/nejumi/sample-visualizer-for-dsoa2024) and extracting insights.
 - Identifying the werewolves among the players
 - Predicting which team will win the game
 
